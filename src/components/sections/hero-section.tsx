@@ -19,7 +19,7 @@ export function HeroSection() {
         {/* Subtle pill badge */}
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-neutral-200 dark:border-neutral-800 bg-neutral-100/80 dark:bg-neutral-900/80 text-xs font-mono text-neutral-700 dark:text-neutral-300">
           <Cpu className="w-3.5 h-3.5 text-neutral-500" />
-          <span>Debugging code builds better software developers.</span>
+          <span>Debugging code builds better software developers..</span>
         </div>
 
         {/* Primary Title */}
