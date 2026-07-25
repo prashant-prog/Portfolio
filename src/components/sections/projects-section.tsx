@@ -97,7 +97,7 @@ export function ProjectsSection() {
                     className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-mono border border-neutral-200 dark:border-neutral-800 bg-neutral-50 dark:bg-neutral-900 hover:bg-neutral-100 dark:hover:bg-neutral-800 text-neutral-700 dark:text-neutral-300 transition-colors"
                   >
                     <GithubIcon className="w-3.5 h-3.5" />
-                    <span>GitHub</span>
+                    <span>GitHub Repository coming soon</span>
                   </a>
                   <a
                     href={project.liveDemoUrl}
@@ -106,7 +106,7 @@ export function ProjectsSection() {
                     className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-mono border border-neutral-200 dark:border-neutral-800 bg-neutral-50 dark:bg-neutral-900 hover:bg-neutral-100 dark:hover:bg-neutral-800 text-neutral-700 dark:text-neutral-300 transition-colors"
                   >
                     <ExternalLink className="w-3.5 h-3.5" />
-                    <span>Live Demo</span>
+                    <span>Live Demo under refinement</span>
                   </a>
                 </div>
 
