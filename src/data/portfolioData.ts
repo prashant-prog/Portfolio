@@ -101,8 +101,8 @@ export const portfolioData: PortfolioData = {
         'JWT Authentication & Role-based endpoint authorization',
         'Interactive Swagger / OpenAPI live documentation auto-generation',
       ],
-      githubUrl: 'https://github.com/prashant-prog/fastapi-backend-api',
-      liveDemoUrl: 'https://fastapi-api-demo.vercel.app',
+      githubUrl: '#',
+      liveDemoUrl: '#',
       overview:
         'A production-ready asynchronous backend web service engineered with Python and FastAPI. Designed following clean architecture principles, featuring strict request validation via Pydantic, database abstraction over MongoDB, JWT-based security layers, and automated endpoint documentation.',
       challenges: [
@@ -209,8 +209,8 @@ export const portfolioData: PortfolioData = {
         'Strict Client & Server Validation for data sanity',
         'Responsive user interface built with React',
       ],
-      githubUrl: 'https://github.com/prashant-prog/full-stack-text-editor',
-      liveDemoUrl: 'https://text-editor-demo.vercel.app',
+      githubUrl: '#',
+      liveDemoUrl: '#',
       overview:
         'A full-stack text editor application allowing users to compose, manage, tag, and persist text documents in real-time. Built with a decoupled Node.js/Express REST backend server and a responsive React client.',
       challenges: [
